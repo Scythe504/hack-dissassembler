@@ -1,0 +1,3 @@
+/home/scythe/C-Projects/warmup/CMakeFiles/hack_disassembler.dir
+/home/scythe/C-Projects/warmup/CMakeFiles/edit_cache.dir
+/home/scythe/C-Projects/warmup/CMakeFiles/rebuild_cache.dir

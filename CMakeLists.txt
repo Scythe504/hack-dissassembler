@@ -6,7 +6,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 include_directories(include)
 
-add_executable(hack_disassembler
+add_executable(hdasm
   src/main.cpp
   src/code.cpp
 )
